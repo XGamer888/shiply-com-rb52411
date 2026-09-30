@@ -1,0 +1,47 @@
+{
+  "RL481528024431": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Julian Maier, Schubertstraße 2, Top 5, 6845 Hohenems, Vorarlberg, Österreich",
+    "price": "2.900,00 €",
+    "description": "Hersteller: Simson<br>Typ: S 51 B<br>Fahrgestelnummer: 5068484<br>Erstzulassung: 05/1982<br>KM laut Vorbesitzer: 34.000 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Julian Maier<br>Schubertstraße 2, Top 5<br>6845 Hohenems, Vorarlberg<br>Österreich<br>Telefon: +43 660 7169740",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "30.09.2026",
+    "deliveryDate": "05.10.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Schubertstraße 2, Top 5",
+      "postal_code": "6845",
+      "city": "Hohenems, Vorarlberg",
+      "country": "Österreich",
+      "lat": "47.36723740348659",
+      "lng": "9.674930026060666"
+    }
+  }
+}
